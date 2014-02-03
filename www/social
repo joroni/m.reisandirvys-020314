@@ -15,6 +15,7 @@
 @import url("./sites/all/themes/jqmtheme/styles/jqmtheme.css?n0fdkx");</style>
 <link type="text/css" rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile.structure-1.0.1.min.css?n0fdkx" media="all" />
 <link type="text/css" rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css?n0fdkx" media="all" />
+   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
   <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
 <script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
 <script type="text/javascript" src="./misc/drupal.js?n0fdkx"></script>
@@ -24,7 +25,7 @@
 <script type="text/javascript" src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js?n0fdkx"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"iiL02NDMBcGbKQuRfR8qSQ6R7J4zbIeXyi0SECV_bi8", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"6XPiYvwjBNgE3Q5Ii-ySav95RTfunFCv0t3Q7TskyaU", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icon\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
 //--><!]]>
 </script>
 </head>
@@ -33,7 +34,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
     <div class="header"  data-theme="d" data-position="inline" data-role="header">
               <h1 class="site-name">Reis and Irvys</h1>
             
-      
+        
       
             <a href="index.html" title="Home" data-rel="home" data-icon="home" data-ajax="false"><span>Home</span></a>
             
@@ -59,7 +60,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 <ul data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
 <li data-icon="arrow-r" class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul><input type="hidden" name="form_build_id" value="form-WQ2coTv1jyP0jFUjO0d16Xc_Xnt1-sB3d1rofwp7dj4" />
+</ul><input type="hidden" name="form_build_id" value="form-PEAX_0hYMWRl1BdPeNjQKXEPhSt5wXI78fzRJO4AWXY" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
 </div>
@@ -67,7 +68,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
 
     
   <div class="content">
-    <div class="view view-social view-id-social view-display-id-page view-dom-id-b03623678223978f9d7fe8259b50689a">
+    <div class="view view-social view-id-social view-display-id-page view-dom-id-61af4e1039828b5d418908988d7ba2fc">
         
   
   
@@ -105,6 +106,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
         
         <div class="content-secondary">
         
+   
+        
                   <div class="navigation">
             <h2>Main Menu</h2><ul id="main-menu" class="links inline clearfix" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="menu-218 first"><a href="./index.html" title="">Home</a></li>
 <li data-icon="arrow-r" class="menu-639 active-trail active"><a href="/social" title="" class="active-trail active">Social</a></li>
@@ -115,6 +118,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
                 </div><!-- /.content-secondary -->
               
     </div>
+
 
     <div class="footer"  data-theme="d" data-position="inline" data-role="footer">        
           </div> <!-- /#footer -->
