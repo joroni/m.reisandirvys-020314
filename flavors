@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<link rel="stylesheet" href="opensans/opensans.css?family=Open+Sans:300,400,700">
+ <link rel="stylesheet" href="css/foundation.css" />
+ <style>
+ a.feed-icon {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*********** Flavors *************/
+header.node-header {
+	display:none !important;
+}
+body.page-flavors content.jqm-content img {
+	-webkit-background-size: 320px 320px;
+-moz-background-size: 320px 320px;
+background-size: 320px 320px;
+max-width:320px;
+}
+
+.poll {
+    
+    text-align: center;
+}
+
+.node-content div.field-type-image {
+    max-width: 320px !important;
+    text-align: center;
+	
+}
+
+/*********** Flavors *************/
+h1#page-title {
+	/*font-size: 1.125rem !important;
+	font-weight:bold;
+	text-shadow: 0 1px 1px #FFF;
+*/
+
+display:none;
+}
+
+
+ </style>
+<!--<script src="scripts/jquery.js"></script>
+<script src="scripts/jquery.mobile-1.3.2.min.js"></script>-->
+
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="./sites/all/themes/foobartheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Next week's flavor poll | Reis and Irvys</title>
+<style>@import url("./modules/system/system.base.css?n0e9ec");
+@import url("./modules/system/system.menus.css?n0e9ec");
+@import url("./modules/system/system.messages.css?n0e9ec");
+@import url("./modules/system/system.theme.css?n0e9ec");</style>
+<style>@import url("./modules/comment/comment.css?n0e9ec");
+@import url("./modules/field/theme/field.css?n0e9ec");
+@import url("./modules/node/node.css?n0e9ec");
+@import url("./modules/poll/poll.css?n0e9ec");
+@import url("./modules/search/search.css?n0e9ec");
+@import url("./modules/user/user.css?n0e9ec");
+@import url("./sites/all/modules/views/css/views.css?n0e9ec");</style>
+<style>@import url("./sites/all/modules/ctools/css/ctools.css?n0e9ec");</style>
+<style media="screen">@import url("./sites/all/themes/adaptivetheme/at_core/css/at.layout.css?n0e9ec");
+@import url("./sites/all/themes/foobartheme/css/global.base.css?n0e9ec");
+@import url("./sites/all/themes/foobartheme/css/global.styles.css?n0e9ec");
+@import url("./sites/all/themes/foobartheme/css/jqm-demos.css?n0e9ec");
+@import url("./sites/all/themes/foobartheme/foundation-icons/foundation-icons.css?n0e9ec");</style>
+<link type="text/css" rel="stylesheet" href="&amp;n0e9ec" media="screen" />
+<style media="screen">@import url("./sites/all/themes/foobartheme/css/styles-rni.css?n0e9ec");
+@import url("./sites/all/themes/foobartheme/css/foundation.css?n0e9ec");</style>
+<link type="text/css" rel="stylesheet" href="./sites/default/files/adaptivetheme/foobartheme_files/foobartheme.responsive.layout.css?n0e9ec" media="only screen" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.custom.css?n0e9ec" media="only screen" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.smartphone.portrait.css?n0e9ec" media="only screen and (max-width:320px)" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.smartphone.landscape.css?n0e9ec" media="only screen and (min-width:321px) and (max-width:480px)" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.tablet.portrait.css?n0e9ec" media="only screen and (min-width:481px) and (max-width:768px)" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.tablet.landscape.css?n0e9ec" media="only screen and (min-width:769px) and (max-width:1024px)" />
+<link type="text/css" rel="stylesheet" href="./sites/all/themes/foobartheme/css/responsive.desktop.css?n0e9ec" media="only screen and (min-width:1025px)" />
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<style media="screen">@import url("./sites/default/files/adaptivetheme/foobartheme_files/foobartheme.lt-ie9.layout.css?n0e9ec");</style>
+<![endif]-->
+<script src="./misc/jquery.js?v=1.4.4"></script>
+<script src="./misc/jquery.once.js?v=1.2"></script>
+<script src="./misc/drupal.js?n0e9ec"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"foobartheme", "theme_token":"DrHXmO2ptcx89A1vz26Pd5425jh3tW76GuCsSD1y7aE", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fpoll\u002Fpoll.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fadaptivetheme\u002Fat_core\u002Fcss\u002Fat.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.base.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.styles.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fjqm-demos.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Ffoundation-icons\u002Ffoundation-icons.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fhttp:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Open+Sans:300,400,700":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fstyles-rni.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Ffoundation.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.responsive.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.custom.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.desktop.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.lt-ie9.layout.css":1}}});</script>
+ <script src="js/vendor/modernizr.js"></script>
+<!--[if lt IE 9]>
+<script src="./sites/all/themes/adaptivetheme/at_core/scripts/html5.js?n0e9ec"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-flavors site-name-hidden page-views">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page" class="container page jqm-demos ui-responsive-panel"  data-role="page">
+
+  <!-- region: Leaderboard -->
+  
+  <header id="header" class="clearfix" role="banner" data-role="header" data-theme="f" data-position="fixed">
+ <div class="glyph">
+            <div class="preview-glyphs">
+				<a href="#nav-panel"><i class="step fi-align-justify size-36" ></i></a>
+               <!-- <p style="float:right;"><a href="#login"><i class="step fi-torso size-36" ></i></a>-->
+		<!--<a href="#login" data-icon="gear" data-iconpos="notext">Add</a>-->
+        	</div>
+        </div>
+          <!-- start: Branding -->
+      <div id="branding" class="branding-elements clearfix">
+
+                  <div id="logo">
+            <a href="./index.html" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="./sites/all/themes/foobartheme/logo.png" alt="Reis and Irvys" /></a>          </div>
+        
+                  <!-- start: Site name and Slogan hgroup -->
+          <hgroup class="element-invisible" id="name-and-slogan">
+
+                          <h1 class="element-invisible" id="site-name"><a href="./index.html" title="Home page">Reis and Irvys</a></h1>
+            
+            
+          </hgroup><!-- /end #name-and-slogan -->
+        
+      </div><!-- /end #branding -->
+    
+    <!-- region: Header -->
+    
+  </header>
+
+  <!-- Navigation elements -->
+    <div id="primary-menu-bar" class="nav clearfix"><nav  role="navigation" class="primary-menu-wrapper menu-wrapper clearfix"><h2 class="element-invisible">Main menu</h2><ul class="menu primary-menu clearfix"><li class="menu-218 first"><a href="./index.html">Home</a></li><li class="menu-631 active-trail last active"><a href="/flavors" class="active-trail active">Vote</a></li></ul></nav></div>  
+  <!-- Breadcrumbs -->
+  
+  <!-- Messages and Help -->
+    
+  <!-- region: Secondary Content -->
+  
+  <div id="columns" class="columns clearfix">
+    <div id="content-column" class="content-column" role="main">
+      <div class="content-inner">
+
+        <!-- region: Highlighted -->
+        
+        <section id="main-content">
+
+          
+                      <header id="main-content-header" class="clearfix">
+
+                              <h1 id="page-title">
+                  Next week's flavor poll                </h1>
+              
+              
+            </header>
+          
+          <!-- region: Main Content -->
+                      <div id="content" data-role="content" class="region jqm-content">
+              <section id="block-user-login" class="block block-user"  role="form">  
+      <h2 class="block-title">User login</h2>
+  
+  <form action="/flavors?destination=flavors%3Fmag%3D1%26mag_q%3Dflavors" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-gmpaT6u7XMd8HNJFzCej9SqHgHkuVs114ODn20d5NU0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>
+  </section><div id="block-system-main" class="block block-system no-title" >  
+  
+  <div class="view view-flavors view-id-flavors view-display-id-page view-dom-id-c4e8271add7420f8fea1ef9c7ce7bd5f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-1" class="node node-poll article clearfix" about="./node/1.html" typeof="sioc:Post sioct:Poll" role="article">
+  
+      <header class="node-header">
+              <h1 property="dc:title" datatype="" class="node-title" rel="nofollow">
+          <a href="./node/1.html" rel="bookmark">What is your flavor?</a>
+        </h1>
+          </header>
+  
+  
+  <div class="node-content">
+    <div class="field field-name-field-image field-type-image field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even"><img typeof="foaf:Image" class="image-style-large" src="./sites/default/files/styles/large/public/flavors.png?itok=QKU3HFwB" width="480" height="360" alt="" /></figure></div></div><div class="poll">
+  
+<div class="text">Vanilla</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Swirl</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Chocolate</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+  <div class="total">
+    Total votes: 0  </div>
+  </div>
+  </div>
+
+  
+  
+  </article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  </div>            </div>
+          
+          <!-- Feed icons (RSS, Atom icons etc -->
+          
+          
+        </section><!-- /end #main-content -->
+
+        <!-- region: Content Aside -->
+        
+      </div><!-- /end .content-inner -->
+    </div><!-- /end #content-column -->
+
+  </div><!-- /end #columns -->
+
+  <!-- region: Tertiary Content -->
+  
+
+<div data-role="panel" data-position-fixed="true" data-theme="a" id="nav-panel">
+    <!-- regions: Sidebar first and Sidebar second -->
+        </div><!-- /end #nav-panel -->
+
+
+  <!-- region: Footer -->
+  
+</div>
+  </body>
+</html>
