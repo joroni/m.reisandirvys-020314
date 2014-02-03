@@ -16,6 +16,10 @@ ul.secondary-menu {
 }
 */
 
+div#primary-menu-bar.nav, div#menu-bar.nav {
+	visibility:hidden;
+}
+
 img#site-logo {
 -webkit-background-size: 150px 24px;
 -moz-background-size: 150px 24px;

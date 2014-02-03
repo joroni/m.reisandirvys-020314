@@ -1,6 +1,6 @@
 
 var Drupal = Drupal || { 'settings': {}, 'behaviors': {}, 'locale': {} };
-//var basePath = 'http://www.m.reisandirvys.com'
+
 // Allow other JavaScript libraries to use $.
 jQuery.noConflict();
 
