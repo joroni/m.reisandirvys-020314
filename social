@@ -53,13 +53,12 @@ display:none;
 <meta charset="utf-8" />
 <link rel="shortcut icon" href="./sites/all/themes/foobartheme/favicon.ico" type="image/vnd.microsoft.icon" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="alternate" type="application/rss+xml" title="Reis and Irvys RSS" href="http://m.reisandirvys.com/rss.xml" />
 <meta http-equiv="cleartype" content="on" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<title>Reis and Irvys</title>
+<title>Social | Reis and Irvys</title>
 <style>@import url("./modules/system/system.base.css?n0e9ec");
 @import url("./modules/system/system.menus.css?n0e9ec");
 @import url("./modules/system/system.messages.css?n0e9ec");
@@ -94,13 +93,13 @@ display:none;
 <script src="./misc/jquery.js?v=1.4.4"></script>
 <script src="./misc/jquery.once.js?v=1.2"></script>
 <script src="./misc/drupal.js?n0e9ec"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"foobartheme", "theme_token":"1cYS_VQ3NTdBDWMkAp0x4XgsllASCxP88bq-ZnZTwg0", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fpoll\u002Fpoll.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fadaptivetheme\u002Fat_core\u002Fcss\u002Fat.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.base.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.styles.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fjqm-demos.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Ffoundation-icons\u002Ffoundation-icons.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fhttp:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Open+Sans:300,400,700":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fstyles-rni.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Ffoundation.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.responsive.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.custom.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.desktop.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.lt-ie9.layout.css":1}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"foobartheme", "theme_token":"hafJlfJKX4IcBesFZmGyJtoexawKEx6kZtYmDEJ1_Zs", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fpoll\u002Fpoll.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fadaptivetheme\u002Fat_core\u002Fcss\u002Fat.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.base.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fglobal.styles.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fjqm-demos.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Ffoundation-icons\u002Ffoundation-icons.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fhttp:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Open+Sans:300,400,700":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fstyles-rni.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Ffoundation.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.responsive.layout.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.custom.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.smartphone.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.portrait.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.tablet.landscape.css":1, "sites\u002Fall\u002Fthemes\u002Ffoobartheme\u002Fcss\u002Fresponsive.desktop.css":1, "public:\u002F\u002Fadaptivetheme\u002Ffoobartheme_files\u002Ffoobartheme.lt-ie9.layout.css":1}}});</script>
  <script src="js/vendor/modernizr.js"></script>
 <!--[if lt IE 9]>
 <script src="./sites/all/themes/adaptivetheme/at_core/scripts/html5.js?n0e9ec"></script>
 <![endif]-->
 </head>
-<body class="html front not-logged-in no-sidebars page-node site-name-hidden">
+<body class="html not-front not-logged-in no-sidebars page-social site-name-hidden page-views">
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
@@ -120,12 +119,12 @@ display:none;
       <div id="branding" class="branding-elements clearfix">
 
                   <div id="logo">
-            <a href="./index.html" title="Home page" class="active"><img class="site-logo image-style-none" typeof="foaf:Image" src="./sites/all/themes/foobartheme/logo.png" alt="Reis and Irvys" /></a>          </div>
+            <a href="./index.html" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="./sites/all/themes/foobartheme/logo.png" alt="Reis and Irvys" /></a>          </div>
         
                   <!-- start: Site name and Slogan hgroup -->
           <hgroup class="element-invisible" id="name-and-slogan">
 
-                          <h1 class="element-invisible" id="site-name"><a href="./index.html" title="Home page" class="active">Reis and Irvys</a></h1>
+                          <h1 class="element-invisible" id="site-name"><a href="./index.html" title="Home page">Reis and Irvys</a></h1>
             
             
           </hgroup><!-- /end #name-and-slogan -->
@@ -139,8 +138,8 @@ display:none;
   <!-- Navigation elements -->
   <div id="menu-bar" class="nav clearfix"><nav id="block-system-main-menu" class="block block-system block-menu no-title menu-wrapper menu-bar-wrapper clearfix"  role="navigation">  
   
-  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-218"><a href="./index.html" title="" class="active">Home</a></li><li class="leaf menu-depth-1 menu-item-639"><a href="/social" title="">Social</a></li><li class="last leaf menu-depth-1 menu-item-631"><a href="/flavors">Vote</a></li></ul>
-  </nav></div>  <div id="primary-menu-bar" class="nav clearfix"><nav  role="navigation" class="primary-menu-wrapper menu-wrapper clearfix"><h2 class="element-invisible">Main menu</h2><ul class="menu primary-menu clearfix"><li class="menu-218 first active"><a href="./index.html" title="" class="active">Home</a></li><li class="menu-639"><a href="/social" title="">Social</a></li><li class="menu-631 last"><a href="/flavors">Vote</a></li></ul></nav></div>  
+  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-218"><a href="./index.html" title="">Home</a></li><li class="leaf active-trail menu-depth-1 menu-item-639"><a href="/social" title="" class="active-trail active">Social</a></li><li class="last leaf menu-depth-1 menu-item-631"><a href="/flavors">Vote</a></li></ul>
+  </nav></div>  <div id="primary-menu-bar" class="nav clearfix"><nav  role="navigation" class="primary-menu-wrapper menu-wrapper clearfix"><h2 class="element-invisible">Main menu</h2><ul class="menu primary-menu clearfix"><li class="menu-218 first"><a href="./index.html" title="">Home</a></li><li class="menu-639 active-trail active"><a href="/social" title="" class="active-trail active">Social</a></li><li class="menu-631 last"><a href="/flavors">Vote</a></li></ul></nav></div>  
   <!-- Breadcrumbs -->
   
   <!-- Messages and Help -->
@@ -153,20 +152,23 @@ display:none;
 
         <!-- region: Highlighted -->
         
-        <div id="main-content">
+        <section id="main-content">
 
           
+                      <header id="main-content-header" class="clearfix">
+
+                              <h1 id="page-title">
+                  Social                </h1>
+              
+              
+            </header>
           
           <!-- region: Main Content -->
                       <div id="content" data-role="content" class="region jqm-content">
-              <div id="block-block-3" class="block block-block no-title" >  
-  
-  <p><img src="http://m.reisandirvys.com/sites/all/themes/foobartheme/images/logo.png" id="site-logo" /></p>
-
-  </div><section id="block-user-login" class="block block-user"  role="form">  
+              <section id="block-user-login" class="block block-user"  role="form">  
       <h2 class="block-title">User login</h2>
   
-  <form action="/node?destination=node%3Fmag%3D1%26mag_q%3Dnode" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <form action="/social?destination=social%3Fmag%3D1%26mag_q%3Dsocial" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
   <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
 </div>
@@ -174,12 +176,18 @@ display:none;
   <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 </div>
-<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-Uuwxi5gAxvH_kw5A7hbwBJNUH-VEv2Fi1xW5P3nImDo" />
+<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-rlovuz1ZIydi19yvG-eiAOaOENBtGFXmdxxaYcicKtk" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>
   </section><div id="block-system-main" class="block block-system no-title" >  
   
-  <article id="node-3" class="node node-social node-promoted node-teaser article clearfix" about="./node/3.html" typeof="sioc:Item foaf:Document" role="article">
+  <div class="view view-social view-id-social view-display-id-page view-dom-id-dbf447012b7ce95eafa88247ca726c7e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-3" class="node node-social node-promoted article clearfix" about="./node/3.html" typeof="sioc:Item foaf:Document" role="article">
   
       <header class="node-header">
               <h1 property="dc:title" datatype="" class="node-title" rel="nofollow">
@@ -189,7 +197,7 @@ display:none;
   
   
   <div class="node-content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
 
   
   <div class="field-items ui-input-text ui-body-c">
@@ -199,24 +207,31 @@ display:none;
       </div>
 
 </div>
-<div class="field field-name-field-social-image field-type-image field-label-hidden view-mode-teaser"><div class="field-items"><figure class="clearfix field-item even"><img typeof="foaf:Image" class="image-style-large" src="./sites/default/files/styles/large/public/8-0z-cup-enhanced2.jpg?itok=Yv-2iIC2" width="478" height="480" alt="" /></figure></div></div><div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://m.reisandirvys.com/node/3" st_title="About your Froyo Love!" class="st_facebook_large" displaytext="facebook"></span>
+<div class="field field-name-field-social-image field-type-image field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even"><img typeof="foaf:Image" class="image-style-large" src="./sites/default/files/styles/large/public/8-0z-cup-enhanced2.jpg?itok=Yv-2iIC2" width="478" height="480" alt="" /></figure></div></div><div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://m.reisandirvys.com/node/3" st_title="About your Froyo Love!" class="st_facebook_large" displaytext="facebook"></span>
 <span st_url="http://m.reisandirvys.com/node/3" st_title="About your Froyo Love!" class="st_twitter_large" displaytext="twitter"></span>
 <span st_url="http://m.reisandirvys.com/node/3" st_title="About your Froyo Love!" class="st_linkedin_large" displaytext="linkedin"></span>
 <span st_url="http://m.reisandirvys.com/node/3" st_title="About your Froyo Love!" class="st_sharethis_large" displaytext="sharethis"></span>
 <script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"dr-df17b662-a9ed-153d-64cc-3a8415c9c5cf"});</script></div></div>
   </div>
 
-      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first last"><a href="./node/3.html" rel="tag" title="About your Froyo Love!">Read more<span class="element-invisible"> about About your Froyo Love!</span></a></li></ul></nav>
   
   
   </article>
-
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
   </div>            </div>
           
           <!-- Feed icons (RSS, Atom icons etc -->
-          <a href="/rss.xml" class="feed-icon" title="Subscribe to Reis and Irvys RSS"><img typeof="foaf:Image" class="image-style-none" src="./misc/feed.png" width="16" height="16" alt="Subscribe to Reis and Irvys RSS" /></a>
           
-        </div><!-- /end #main-content -->
+          
+        </section><!-- /end #main-content -->
 
         <!-- region: Content Aside -->
         
