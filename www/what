@@ -37,6 +37,10 @@
 	.ui-footer {
 		display:none;
 	}
+	
+	 div#block-views-flavors-block.block div.content {
+		 display:none;
+	 }
    </style>
   <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
 <script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
@@ -47,11 +51,12 @@
 <script type="text/javascript" src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js?n0gajh"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"uhc5xA2Bd5fT05aXFaSgOcbJ3cpVPzL-Vh86EbsHrE0", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icon\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"OWdOrszGbvebAuS7eFJHlKgSEaMCTvY9ey072OcIlFY", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icon\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
 //--><!]]>
 </script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-what" >
+
     <div  data-theme="d" data-role="page" class="page type-interior">
     <div class="header"  data-theme="d" data-position="inline" data-role="header">
               <h1 class="site-name">Reis &amp; Irvy's</h1>
@@ -85,7 +90,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 <ul data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
 <li data-icon="arrow-r" class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul><input type="hidden" name="form_build_id" value="form-IFeglfg3gxO9kcKn5016YAFCQIOfAckn-FkUVCKOXbk" />
+</ul><input type="hidden" name="form_build_id" value="form-27Mfs0vSC239sqNPh7ycEm3D3uvmLsnGQj7A02myYIk" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
 </div>
@@ -93,7 +98,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
 
     
   <div class="content">
-    <div class="view view-what view-id-what view-display-id-page view-dom-id-0f939194866ba4bda1b4919a62878506">
+    <div class="view view-what view-id-what view-display-id-page view-dom-id-b9fb9d9b29fe6e5fb40f7ae92ed3a3db">
         
   
   
@@ -107,7 +112,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
   
   <div class="content">
     <div class="field field-name-field-what-is-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="./node/4.html"><img typeof="foaf:Image" src="./sites/default/files/styles/medium/public/week-four-rasin-texture-color.jpg?itok=fPbsyeFO" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Enjoy yogurt with crunchy healthy cereals.</p>
-</div></div></div>  <div data-role="controlgroup" data-type="horizontal"><a href="./node/4.html" rel="tag" title="What&#039;s in" data-role="button" data-icon="node-readmore">Read more<span class="element-invisible"> about What&#039;s in</span></a><a href="/"><a href="/user/login?destination=node/4">Log in</a> or <a href="/user/register?destination=node/4">register</a> to post comments</a></div>    </div>
+</div></div></div><div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://m.reisandirvys.com/node/4" st_title="What&#039;s in" class="st_facebook_large" displaytext="facebook"></span>
+<span st_url="http://m.reisandirvys.com/node/4" st_title="What&#039;s in" class="st_twitter_large" displaytext="twitter"></span>
+<span st_url="http://m.reisandirvys.com/node/4" st_title="What&#039;s in" class="st_linkedin_large" displaytext="linkedin"></span>
+<span st_url="http://m.reisandirvys.com/node/4" st_title="What&#039;s in" class="st_sharethis_large" displaytext="sharethis"></span>
+<span st_url="http://m.reisandirvys.com/node/4" st_title="What&#039;s in" class="st_fblike_large" displaytext="fblike"></span>
+<script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"dr-df17b662-a9ed-153d-64cc-3a8415c9c5cf"});</script></div></div>
+  <div data-role="controlgroup" data-type="horizontal"><a href="./node/4.html" rel="tag" title="What&#039;s in" data-role="button" data-icon="node-readmore">Read more<span class="element-invisible"> about What&#039;s in</span></a><a href="/"><a href="/user/login?destination=node/4">Log in</a> or <a href="/user/register?destination=node/4">register</a> to post comments</a></div>    </div>
 
 
 </div>
