@@ -15,9 +15,7 @@ div.navigation h2 {
       }
 
  body {
-       /* background: #fff;*/
-	
-	
+        background: #fff;
         color: #333;
         font-family:'Open Sans', Helvetica, sans-serif !important;
 		
@@ -115,73 +113,4 @@ div.navigation h2 {
 	  
 a, a:hover, a.link {
 	text-decoration:none;
-}
-/*
-.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page  {
-	width:90% !important;	box-shadow:0 1px 2px #333 !important;
-}*/
-
-
-   .content-primary  {
-	box-shadow:0 1px 4px rgba(0, 0, 0, 0.3) !important;
-	padding:20px !important;
-	border-radius:5px;
-	background: none repeat scroll 0 0 #FFFFFF;
-}
-	/*.ui-content {
-		   background: url("./images/bg-orange.jpg") repeat scroll 0 0 #ef8c37 !important;
-	}
-	*/
-	.header, .ui-header {
-		 background: url("/images/header-tile.png") repeat-x scroll 0 -20px #ED088E;
-		 color:#fff;
-		 text-shadow:-1px 0px 1px #333;
-		 border-bottom:1px solid #f562a4 !important; 
-		
-	}
-	.ui-btn-corner-all {
-    border-radius: 2px !important;
-}
-.ui-corner-top {
-    border-top-left-radius: 2px !important;
-    border-top-right-radius: 2px !important;
-}
-
-.ui-corner-bottom {
-    border-bottom-left-radius: 2px !important;
-    border-bottom-right-radius: 2px !important;
-}
-
-.ui-body-d .ui-link {
-      color: #ED088E !important;
-    font-size: 70%;
-    font-weight: normal;
-}
-a, a:hover, a.link. a:visited {
-    text-decoration: none;
-	font-weight:normal !important;
-}
-
-.ui-link-inherit {
-	font-weight:normal !important;
-	font-family:'Open sans', Helvetica, sans-serif;
-}
-
-.style {
-    min-height: 681px;
-}
-.ui-mobile .ui-page-active {
-    display: block;
-    overflow: visible;
-}
-.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page {
-    width: 100%;
-}
-
-img#site-logo {
-	width:200px !important;
-}
-
-.breadcrumb {
-	display: none;
 }

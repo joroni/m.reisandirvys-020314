@@ -6,7 +6,7 @@
 <link rel="shortcut icon" href="./misc/favicon.ico" type="image/vnd.microsoft.icon" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1" /> 
-    <title>Vote! Next week's flavor | Reis &amp; Irvy&#039;s</title>
+    <title>What's in | Reis &amp; Irvy&#039;s</title>
   <style type="text/css" media="all">@import url("./modules/system/system.base.css?n0gajh");</style>
 <style type="text/css" media="all">@import url("./modules/field/theme/field.css?n0gajh");
 @import url("./sites/all/modules/views/css/views.css?n0gajh");</style>
@@ -47,11 +47,11 @@
 <script type="text/javascript" src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js?n0gajh"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"RQZ8julSD-cBQsE2EAJP_03DCZhGAZM_UjNzI59yKeA", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icon\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"uhc5xA2Bd5fT05aXFaSgOcbJ3cpVPzL-Vh86EbsHrE0", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icon\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
 //--><!]]>
 </script>
 </head>
-<body class="html not-front not-logged-in no-sidebars page-vote" >
+<body class="html not-front not-logged-in no-sidebars page-what" >
     <div  data-theme="d" data-role="page" class="page type-interior">
     <div class="header"  data-theme="d" data-position="inline" data-role="header">
               <h1 class="site-name">Reis &amp; Irvy's</h1>
@@ -69,20 +69,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
         <div class="content-primary">
 
                                 <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb" data-role="controlgroup" data-type="horizontal"><a href="./index.html" data-role="button">Home</a></div></div>
-                      
-                              <h2 class="title" class="page-title">Vote! Next week's flavor</h2>                                <div class="region region-content">
+                    <div class="ui-body ui-body-error messages error">
+<h2 class="element-invisible">Error message</h2>
+<em class="placeholder">Notice</em>: Undefined index:  href in <em class="placeholder">mobile_jquery_links__node()</em> (line <em class="placeholder">334</em> of <em class="placeholder">/home/mobilere/public_html/sites/all/themes/mobile_jquery/includes/modules/theme.inc</em>).</div>
+  
+                              <h2 class="title" class="page-title">What's in</h2>                                <div class="region region-content">
     <div id="block-user-login" class="block block-user">
 
     <h2>User login</h2>
   
   <div class="content">
-    <form action="/vote?destination=vote%3Fmag%3D1%26mag_q%3Dvote" method="post" id="user-login-form" accept-charset="UTF-8"><div>  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+    <form action="/what?destination=what%3Fmag%3D1%26mag_q%3Dwhat" method="post" id="user-login-form" accept-charset="UTF-8"><div>  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
   <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 <ul data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
 <li data-icon="arrow-r" class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul><input type="hidden" name="form_build_id" value="form-Vo0XxlM21MRfULifclPaOYQtk9WjH9FQlJWZ_RO5flM" />
+</ul><input type="hidden" name="form_build_id" value="form-IFeglfg3gxO9kcKn5016YAFCQIOfAckn-FkUVCKOXbk" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
 </div>
@@ -90,20 +93,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
 
     
   <div class="content">
-    <div class="view view-flavors view-id-flavors view-display-id-page view-dom-id-d0b6ca6a5c4e49a59bc5453c8db3702b">
+    <div class="view view-what view-id-what view-display-id-page view-dom-id-0f939194866ba4bda1b4919a62878506">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-    <div id="node-1" class="node node-poll clearfix" about="./node/1.html" typeof="sioc:Post sioct:Poll">
+    <div id="node-4" class="node node-whats-in node-promoted node-teaser clearfix" about="./node/4.html" typeof="sioc:Item foaf:Document">
 
   
-        <h2 property="dc:title" datatype=""><a href="./node/1.html">Vote next week&#039;s flavor</a></h2>
+        <h2 property="dc:title" datatype=""><a href="./node/4.html">What&#039;s in</a></h2>
     
   
   <div class="content">
-    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="./sites/default/files/styles/medium/public/flavors.png?itok=PVy4kZZP" alt="" /></div></div></div>      </div>
+    <div class="field field-name-field-what-is-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="./node/4.html"><img typeof="foaf:Image" src="./sites/default/files/styles/medium/public/week-four-rasin-texture-color.jpg?itok=fPbsyeFO" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Enjoy yogurt with crunchy healthy cereals.</p>
+</div></div></div>  <div data-role="controlgroup" data-type="horizontal"><a href="./node/4.html" rel="tag" title="What&#039;s in" data-role="button" data-icon="node-readmore">Read more<span class="element-invisible"> about What&#039;s in</span></a><a href="/"><a href="/user/login?destination=node/4">Log in</a> or <a href="/user/register?destination=node/4">register</a> to post comments</a></div>    </div>
 
 
 </div>
@@ -127,8 +131,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
                   <div class="navigation">
             <h2>Main Menu</h2><ul id="main-menu" class="links inline clearfix" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="menu-218 first"><a href="./index.html" title="">Home</a></li>
 <li data-icon="arrow-r" class="menu-639"><a href="/social" title="">Social</a></li>
-<li data-icon="arrow-r" class="menu-646 active-trail active"><a href="/vote" class="active-trail active">Vote</a></li>
-<li data-icon="arrow-r" class="menu-650 last"><a href="/what" title="">What&#039;s in?</a></li>
+<li data-icon="arrow-r" class="menu-646"><a href="/vote">Vote</a></li>
+<li data-icon="arrow-r" class="menu-650 active-trail last active"><a href="/what" title="" class="active-trail active">What&#039;s in?</a></li>
 </ul>            <h2>Secondary Menu</h2>          </div> <!-- /#navigation -->
                 
         
